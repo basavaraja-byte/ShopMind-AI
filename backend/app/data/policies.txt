@@ -1,0 +1,17 @@
+SHOPMIND AI E-COMMERCE STORE POLICIES
+
+1. PRICING & OFFER POLICY:
+- Displayed original prices, promotional discounts, and net final prices are live structured catalog prices.
+- Coupon codes are limited to one use per order and cannot be combined with existing clearance sales unless stated otherwise.
+
+2. INVENTORY & STOCK AVAILABILITY POLICY:
+- Stock levels are updated dynamically. If an item is listed as 'In Stock', order dispatch takes place within 24 hours.
+- If an item goes out of stock, customers may request an back-in-stock alert notification.
+
+3. SHIPPING & FAST DELIVERY POLICY:
+- Standard Delivery: Delivered within 2-3 business days across metro cities.
+- Fast Express Delivery: Delivered within 24-48 hours for selected pin codes.
+
+4. CANCELLATION & REFUND POLICY:
+- Orders can be canceled before dispatch for a 100% full refund to original payment source.
+- Refunds for returns are processed within 3-5 working days upon quality inspection approval at fulfillment centers.

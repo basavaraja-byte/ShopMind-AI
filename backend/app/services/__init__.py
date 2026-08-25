@@ -1,0 +1,6 @@
+from app.services.product_service import SQLiteProductService, product_service
+from app.services.pricing_service import SimulatedPricingService, pricing_service
+from app.services.inventory_service import SimulatedInventoryService, inventory_service
+from app.services.delivery_service import SimulatedDeliveryService, delivery_service
+from app.services.cache_service import InMemoryCacheService, cache_service
+from app.services.feedback_service import FeedbackService, feedback_service

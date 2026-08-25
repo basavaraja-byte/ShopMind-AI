@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": "P001",
+    "rating": 5,
+    "user": "Rahul M.",
+    "headline": "Outstanding battery and camera clarity",
+    "content": "Bought Samsung M14 5G for ₹16,999 after discount. The 50MP camera takes crisp photos even in indoor low light. The 6000mAh battery easily lasts 2 full days of moderate usage."
+  },
+  {
+    "product_id": "P001",
+    "rating": 4,
+    "user": "Priya S.",
+    "headline": "Great value phone under 20k",
+    "content": "Overall very satisfied with display smooth 90Hz and 5G connectivity. Charger isn't provided in box, but battery life is incredible."
+  },
+  {
+    "product_id": "P002",
+    "rating": 5,
+    "user": "Ankit K.",
+    "headline": "Stunning AMOLED screen and 108MP camera",
+    "content": "Redmi Note 13 5G display is super bright outdoors. Colors pop up nicely. Fast delivery received in 2 days."
+  },
+  {
+    "product_id": "P003",
+    "rating": 4,
+    "user": "Vikram R.",
+    "headline": "Sleek look and good performance",
+    "content": "Realme Narzo 60 vegan leather finish looks premium. Camera quality is decent for ₹15k range. Sound output is clear."
+  },
+  {
+    "product_id": "P008",
+    "rating": 4,
+    "user": "Deepak T.",
+    "headline": "Smooth programming experience for code & web dev",
+    "content": "Lenovo IdeaPad Slim 3 handles VS Code, Python scripts, Node.js servers seamlessly. Great value laptop under 40k."
+  },
+  {
+    "product_id": "P012",
+    "rating": 5,
+    "user": "Siddharth G.",
+    "headline": "Best running shoes under 5000 rupees",
+    "content": "Puma Velocity Nitro 2 gives amazing cushion rebound while jogging on roads. Grippy outsole on wet roads and super light weight."
+  }
+]
