@@ -1,4 +1,4 @@
-﻿const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api';
+﻿const API_BASE = process.env.NEXT_PUBLIC_API_URL || '/api';
 
 export interface Product {
   id: string;
@@ -141,3 +141,4 @@ export async function fetchOrder(orderId: string): Promise<OrderConfirmation> {
   if (!res.ok) throw new Error('Order not found');
   return res.json();
 }
+
